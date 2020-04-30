@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/memento/static/css/main.0fa55258.chunk.css",
-    "main.js": "/memento/static/js/main.1a277826.chunk.js",
-    "main.js.map": "/memento/static/js/main.1a277826.chunk.js.map",
+    "main.js": "/memento/static/js/main.c97efd58.chunk.js",
+    "main.js.map": "/memento/static/js/main.c97efd58.chunk.js.map",
     "runtime-main.js": "/memento/static/js/runtime-main.5da6bd48.js",
     "runtime-main.js.map": "/memento/static/js/runtime-main.5da6bd48.js.map",
     "static/js/2.ffe6506c.chunk.js": "/memento/static/js/2.ffe6506c.chunk.js",
     "static/js/2.ffe6506c.chunk.js.map": "/memento/static/js/2.ffe6506c.chunk.js.map",
     "index.html": "/memento/index.html",
-    "precache-manifest.ba4e97feda2bd5ae58cc876b1e9e991e.js": "/memento/precache-manifest.ba4e97feda2bd5ae58cc876b1e9e991e.js",
+    "precache-manifest.e2eb378393578096d46c03e59078f45f.js": "/memento/precache-manifest.e2eb378393578096d46c03e59078f45f.js",
     "service-worker.js": "/memento/service-worker.js",
     "static/css/main.0fa55258.chunk.css.map": "/memento/static/css/main.0fa55258.chunk.css.map",
     "static/js/2.ffe6506c.chunk.js.LICENSE.txt": "/memento/static/js/2.ffe6506c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5da6bd48.js",
     "static/js/2.ffe6506c.chunk.js",
     "static/css/main.0fa55258.chunk.css",
-    "static/js/main.1a277826.chunk.js"
+    "static/js/main.c97efd58.chunk.js"
   ]
 }

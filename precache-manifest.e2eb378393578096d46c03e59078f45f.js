@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb353868fe4893d6cc81a84d3e3dbf98",
+    "revision": "d4520ea1816fa7cde92f3d0baf0bbac3",
     "url": "/memento/index.html"
   },
   {
-    "revision": "f522fb1f19fd87d7cf6b",
+    "revision": "5e943712624f01ce0f94",
     "url": "/memento/static/css/main.0fa55258.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memento/static/js/2.ffe6506c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f522fb1f19fd87d7cf6b",
-    "url": "/memento/static/js/main.1a277826.chunk.js"
+    "revision": "5e943712624f01ce0f94",
+    "url": "/memento/static/js/main.c97efd58.chunk.js"
   },
   {
     "revision": "e59b94b164feb35d1017",
